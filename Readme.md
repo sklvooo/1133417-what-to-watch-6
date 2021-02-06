@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть» [![Build status][travis-image]][travis-url]
 
 * Студент: [Сергей Соколов](https://up.htmlacademy.ru/react/6/user/1133417).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Волков](https://htmlacademy.ru/profile/id1508839).
 
 ---
 
